@@ -1,0 +1,1079 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fjallraven - Foldsack No. 1 Backpack",
+      "price": "$109.95",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "details": [
+        "Durable fabric",
+        "Fits 15 laptops",
+        "Main compartment with a drawstring",
+        "Front zippered pocket",
+        "Padded shoulder straps"
+      ],
+      "care": [
+        "Clean with a damp cloth",
+        "Do not machine wash",
+        "Air dry"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/9e/6f/ab/9e6fabc069eb8182ae5c5cdbe4bb5cb7.jpg",
+        "https://i.pinimg.com/736x/db/e8/6a/dbe86ac567f3ccca0c98a004f4c78c6c.jpg",
+        "https://i.pinimg.com/736x/d8/7a/23/d87a2367d601786d546b08cd8ec512ce.jpg"
+      ],
+      "sizes": ["One Size"],
+      "materials": ["Vinyl", "Polyester"],
+      "category": "Accessories",
+      "isNew": false,
+      "rating": 4.5,
+      "reviewCount": 120
+    },
+    {
+      "id": 2,
+      "name": "Mens Casual Premium Slim Fit T-Shirts",
+      "price": "$22.30",
+      "description": "Slim-fitting style, contrast raglan long sleeve.",
+      "details": [
+        "Material: 100% Cotton",
+        "Machine washable",
+        "Regular fit",
+        "Available in multiple colors"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Tumble dry low",
+        "Do not bleach"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/20/d2/2e/20d22e1d96a99d45e5937dccf7dcaa0b.jpg",
+        "https://i.pinimg.com/736x/42/39/85/4239854da9f0bfc7358286e8e27eb786.jpg",
+        "https://i.pinimg.com/736x/f8/23/e0/f823e0daed92975d6dc121439013fbc0.jpg"
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "materials": ["100% Cotton"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.0,
+      "reviewCount": 200
+    },
+    {
+      "id": 3,
+      "name": "Mens Cotton Jacket",
+      "price": "$55.99",
+      "description": "Great outerwear jackets for Spring/Autumn/Winter.",
+      "details": [
+        "Material: Cotton Blend",
+        "Lightweight and durable",
+        "Perfect for layering",
+        "Available in various colors"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Do not bleach",
+        "Tumble dry low"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/14/03/bd/1403bdf32c826fb9ef96b97794f5529c.jpg",
+        "https://i.pinimg.com/736x/77/ea/a2/77eaa2802affc0b41489388e2d2bdc2e.jpg",
+        "https://i.pinimg.com/736x/db/5f/57/db5f57720952c757a381ed29c41a76c3.jpg"
+      ],
+      "sizes": ["M", "L", "XL"],
+      "materials": ["Cotton", "Polyester"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.2,
+      "reviewCount": 150
+    },
+    {
+      "id": 4,
+      "name": "Mens Casual Slim Fit",
+      "price": "$15.99",
+      "description": "The color could be slightly different.",
+      "details": [
+        "Material: 97% Cotton, 3% Elastane",
+        "Comfortable wear",
+        "Available in various colors",
+        "Stylish design"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Do not bleach",
+        "Tumble dry low"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/9d/8f/00/9d8f002c56996a93ca93f72a18c494c9.jpg",
+        "https://i.pinimg.com/736x/50/02/31/500231ddc9d220db40b464c9a7d43d72.jpg",
+        "https://i.pinimg.com/736x/82/d2/c3/82d2c3029dc460e9f53c52044cea7774.jpg"
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "materials": ["Cotton", "Elastane"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 3.9,
+      "reviewCount": 80
+    },
+    {
+      "id": 5,
+      "name": "John Hardy Women's Legends Naga Bracelet",
+      "price": "$695.00",
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon.",
+      "details": [
+        "Material: Gold and Silver",
+        "Adjustable chain",
+        "Classic design",
+        "Secure lobster clasp"
+      ],
+      "care": [
+        "Polish with a soft cloth",
+        "Avoid contact with chemicals",
+        "Store in an anti-tarnish pouch"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/73/a9/2f/73a92f577c3c9a8e0a97439e6a4a66da.jpg",
+        "https://i.pinimg.com/736x/8b/9e/dd/8b9eddcc5510976bef40350244d330e2.jpg",
+        "https://i.pinimg.com/736x/31/5b/bc/315bbc972791b582055dbf8851bf73de.jpg"
+      ],
+      "sizes": ["6.5\"", "7\"", "7.5\"", "8\""],
+      "materials": ["18K Gold", "925 Silver"],
+      "category": "Jewelry",
+      "isNew": true,
+      "rating": 4.8,
+      "reviewCount": 50
+    },
+    {
+      "id": 6,
+      "name": "Solid Gold Petite Micropave",
+      "price": "$168.00",
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "details": [
+        "Material: Solid Gold",
+        "Elegant design",
+        "Perfect for any occasion"
+      ],
+      "care": [
+        "Avoid contact with water",
+        "Store in a dry place",
+        "Polish to maintain shine"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/a3/43/ad/a343ad037520eac8d6fd5e5eec4212ef.jpg" ,
+        "https://i.pinimg.com/736x/b8/e8/06/b8e806c8ae421fa7e78d0d81fe90b79c.jpg",
+        "https://i.pinimg.com/736x/da/f0/1f/daf01f81ac92ec7cf81e33367374a7bd.jpg"
+      ],
+      "sizes": ["One Size"],
+      "materials": ["Gold"],
+      "category": "Jewelry",
+      "isNew": false,
+      "rating": 4.7,
+      "reviewCount": 90
+    },
+    {
+      "id": 7,
+      "name": "White Gold Plated Princess",
+      "price": "$9.99",
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her.",
+      "details": [
+        "Material: White Gold",
+        "Elegant jewelry",
+        "Perfect gift for a loved one"
+      ],
+      "care": [
+        "Keep away from moisture",
+        "Store in a jewelry box"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/50/67/29/506729f72ca731f30549bc532753135c.jpg",
+        "https://i.pinimg.com/736x/4a/2d/34/4a2d34d849aaa0dfdba7523e9eba9ae0.jpg",
+        "https://i.pinimg.com/736x/0f/5e/58/0f5e58fe56f4c924b3c8f4a49c85d4c7.jpg"
+      ],
+      "sizes": ["6", "7", "8"],
+      "materials": ["White Gold", "Diamonds"],
+      "category": "Jewelry",
+      "isNew": true,
+      "rating": 4.1,
+      "reviewCount": 200
+    },
+    {
+      "id": 8,
+      "name": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": "$10.99",
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings.",
+      "details": [
+        "Material: Stainless Steel",
+        "Rose Gold plating",
+        "Unique design"
+      ],
+      "care": [
+        "Wipe with a damp cloth",
+        "Avoid harsh chemicals"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/cb/82/4a/cb824ae5dc8ef39c8004ec3f3618b47b.jpg",
+        "https://i.pinimg.com/736x/96/46/a0/9646a006a4a7213b03e1178d0571d558.jpg",
+        "https://i.pinimg.com/736x/39/2d/6a/392d6a0b445ba377fe943b2ed0d07a82.jpg"
+      ],
+      "sizes": ["One Size"],
+      "materials": ["Stainless Steel", "Rose Gold"],
+      "category": "Jewelry",
+      "isNew": false,
+      "rating": 3.8,
+      "reviewCount": 60
+    },
+    {
+      "id": 9,
+      "name": "Forever 21 Women's Floral Dress",
+      "price": "$29.99",
+      "description": "A flowy floral dress for casual or party wear.",
+      "details": [
+        "Material: 100% Polyester",
+        "Lightweight and comfortable",
+        "Perfect for summer"
+      ],
+      "care": [
+        "Hand wash only",
+        "Do not bleach"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/0b/87/d3/0b87d3ee9044067d74fbfeb0bb1acede.jpg",
+        "https://i.pinimg.com/736x/5c/81/74/5c8174c4dc8a0922d6011d55c27d3d67.jpg",
+        "https://i.pinimg.com/736x/89/a1/c5/89a1c5c7057126e46c0f41792673c3e2.jpg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Polyester"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.3,
+      "reviewCount": 140
+    },
+    {
+      "id": 10,
+      "name": "Zara Women's Cropped Hoodie",
+      "price": "$45.99",
+      "description": "Stylish cropped hoodie with soft fleece interior.",
+      "details": [
+        "Material: 80% Cotton, 20% Polyester",
+        "Cropped fit",
+        "Available in multiple colors"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Do not bleach"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/36/31/7c/36317c250c7a914345f3ac5c6025b232.jpg",
+        "https://i.pinimg.com/736x/24/84/10/24841015531501a50955608c8b0a6e0c.jpg",
+        "https://i.pinimg.com/736x/cb/39/c3/cb39c3f5c82811572f4e179ef85077ce.jpg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Cotton", "Polyester"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.0,
+      "reviewCount": 75
+    },
+    {
+      "id": 11,
+      "name": "Shein Women's Ruffle Sleeve Blouse",
+      "price": "$22.49",
+      "description": "Elegant ruffle sleeve top, perfect for formal wear.",
+      "details": [
+        "Material: 100% Polyester",
+        "Lightweight and flowy",
+        "Available in various colors"
+      ],
+      "care": [
+        "Hand wash cold",
+        "Do not bleach"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/ff/bd/dd/ffbddd734f6af703be3a7f7337df086c.jpg",
+        "https://i.pinimg.com/736x/4a/92/97/4a9297e13f6343493d82f852281f9b10.jpg",
+        "https://i.pinimg.com/736x/20/53/c9/2053c92b0e92564c2a6f9bd1c860efec.jpg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Polyester"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 3.7,
+      "reviewCount": 55
+    },
+    {
+      "id": 12,
+      "name": "MBJ Women's Solid Short Sleeve Boat Neck V",
+      "price": "$9.85",
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported.",
+      "details": [
+        "Material: Soft and lightweight felt fabric",
+        "Boat neck design",
+        "Casual fit"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Tumble dry low"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/37/0d/18/370d186a446b0661ea4ca501109e8164.jpg",
+        "https://i.pinimg.com/736x/dc/75/7a/dc757a8d26e4565dd9e3a3c29289370e.jpg",
+        "https://i.pinimg.com/736x/a8/02/f2/a802f2ee277d0fbb8b5c21d498a0b440.jpg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Rayon", "Spandex"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.1,
+      "reviewCount": 100
+    },
+    {
+      "id": 13,
+      "name": "Opna Women's Short Sleeve Moisture",
+      "price": "$7.95",
+      "description": "100% Polyester, Machine wash.",
+      "details": [
+        "Material: Moisture-wicking",
+        "Fit for athletes",
+        "Breathable fabric"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Do not bleach"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/5f/b5/58/5fb558d38e03e652e95c21caa64fb9d9.jpg",
+        "https://i.pinimg.com/736x/80/03/2e/80032ea67c9fe70d7687b3f715bcea26.jpg",
+        "https://i.pinimg.com/736x/53/77/9a/53779a8071b0a835904f819da1b49587.jpg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Polyester"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.2,
+      "reviewCount": 30
+    },
+    {
+      "id": 14,
+      "name": "Mens Long Sleeve Dress Shirt",
+      "price": "$35.00",
+      "description": "Classic fit long sleeve dress shirt.",
+      "details": [
+        "Material: 100% Cotton",
+        "Perfect for formal occasions",
+        "Available in multiple colors"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Tumble dry low"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/d2/5e/3d/d25e3d9e3e840d503c29c3c18ea9a18e.jpg",
+        "https://i.pinimg.com/736x/d6/a6/a4/d6a6a4df979304fdc0e5ff834ad82341.jpg",
+        "https://i.pinimg.com/736x/30/a8/78/30a878401f50faace9bbf9c687928995.jpg"
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "materials": ["Cotton"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.4,
+      "reviewCount": 70
+    },
+    {
+      "id": 15,
+      "name": "Womens High Waist Skinny Jeans",
+      "price": "$45.00",
+      "description": "Stylish high waist skinny jeans.",
+      "details": [
+        "Material: 98% Cotton, 2% Spandex",
+        "Comfortable fit",
+        "Available in various washes"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Do not bleach"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/1b/84/1b/1b841b9d05c21e0c73998b5ecf9f7cbd.jpg",
+        "https://i.pinimg.com/736x/5e/98/3d/5e983def182934d46c5cb11a28ce9504.jpg",
+        "https://i.pinimg.com/474x/40/64/a4/4064a448b1e0fdf951bbf56bbae2a94f.jpg"
+      ],
+      "sizes": ["24", "25", "26", "27", "28", "29"],
+      "materials": ["Cotton", "Spandex"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.6,
+      "reviewCount": 80
+    },
+    {
+      "id": 16,
+      "name": "Gold Hoop Earrings",
+      "price": "$45.00",
+      "description": "Classic gold hoop earrings for everyday wear.",
+      "details": [
+        "Material: Gold-plated",
+        "Hypoallergenic",
+        "Lightweight design"
+      ],
+      "care": [
+        "Polish with a soft cloth",
+        "Store in a cool, dry place"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/58/2a/9d/582a9d77fbccc1cdcb60c96f6a4551a9.jpg",
+        "https://i.pinimg.com/736x/b2/c1/c7/b2c1c7f6358c997add50f7945cdb9393.jpg",
+        "https://i.pinimg.com/736x/60/5a/83/605a83093c86df748465b11878f201d1.jpg"
+      ],
+      "sizes": ["One Size"],
+      "materials": ["Gold-plated"],
+      "category": "Jewelry",
+      "isNew": false,
+      "rating": 4.3,
+      "reviewCount": 90
+    },
+    {
+      "id": 17,
+      "name": "Mens Chino Pants",
+      "price": "$39.99",
+      "description": "Comfortable chinos for casual wear.",
+      "details": [
+        "Material: 100% Cotton",
+        "Available in various colors",
+        "Slim fit"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Do not bleach",
+        "Tumble dry low"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/05/0f/b2/050fb2d6939e3614ad5a61807f19d22e.jpg",
+        "https://i.pinimg.com/736x/4a/9a/d9/4a9ad9528b5fef4bed48b49fc33f915e.jpg",
+        "https://i.pinimg.com/736x/e4/0a/fc/e40afc20934cbcbc7a8e684aac5a893b.jpg"
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "materials": ["Cotton"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.0,
+      "reviewCount": 60
+    },
+    {
+      "id": 18,
+      "name": "Womens Lace Dress",
+      "price": "$79.99",
+      "description": "Elegant lace dress perfect for special occasions.",
+      "details": [
+        "Material: Lace and Polyester",
+        "Available in different colors",
+        "Flattering fit"
+      ],
+      "care": [
+        "Hand wash only",
+        "Do not bleach"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/82/bc/ed/82bced7d9ba7413a33d81d7fd293f3dc.jpg",
+        "https://i.pinimg.com/736x/ce/66/af/ce66af9ead182a8782ccf53352ee11a6.jpg",
+        "https://i.pinimg.com/736x/30/e2/69/30e2693066d2335196af8700add2b0b3.jpg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Lace", "Polyester"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.5,
+      "reviewCount": 150
+    },
+    {
+      "id": 19,
+      "name": "Silk Scarf",
+      "price": "$30.00",
+      "description": "Luxurious silk scarf for any outfit.",
+      "details": [
+        "Material: 100% Silk",
+        "Soft and lightweight",
+        "Available in various patterns"
+      ],
+      "care": [
+        "Dry clean only",
+        "Store in a cool, dry place"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/0b/da/30/0bda30497927aec0a8d15802ccd521be.jpg",
+        "https://i.pinimg.com/736x/6d/ab/31/6dab31e78279513402a8cd7fb2bb58d0.jpg",
+        "https://i.pinimg.com/736x/d9/29/25/d92925837988f251eb7fff9dba4d23da.jpg"
+      ],
+      "sizes": ["One Size"],
+      "materials": ["Silk"],
+      "category": "Accessories",
+      "isNew": false,
+      "rating": 4.6,
+      "reviewCount": 40
+    },
+    {
+      "id": 20,
+      "name": "Men's Casual Shorts",
+      "price": "$29.99",
+      "description": "Comfortable shorts for summer.",
+      "details": [
+        "Material: 100% Cotton",
+        "Lightweight and breathable",
+        "Available in multiple colors"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Do not bleach"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/49/4b/d8/494bd8e5194e4695a2863e3a4ae37bbe.jpg",
+        "https://i.pinimg.com/736x/1c/3e/c6/1c3ec6b8b52f24ace677375d5f2c60b8.jpg",
+        "https://i.pinimg.com/736x/0f/7a/1b/0f7a1b0b9b94021e85dabb9d8a270f95.jpg"
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "materials": ["Cotton"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.2,
+      "reviewCount": 70
+    },
+    {
+      "id": 21,
+      "name": "Women's Denim Jacket",
+      "price": "$59.99",
+      "description": "Classic women's denim jacket for casual outings.",
+      "details": [
+        "Material: 100% Cotton",
+        "Lightweight and stylish",
+        "Available in various colors"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Do not bleach",
+        "Hang dry"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/66/93/6e/66936ed918e950b7c9adb2a0eaa4e0fc.jpg",
+        "https://i.pinimg.com/736x/5a/bb/60/5abb60de0b96d44e99ef1a88304cf9c5.jpg",
+        "https://i.pinimg.com/736x/f6/58/0b/f6580bbd40bc422c5a0d46937685abf4.jpg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Cotton"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.3,
+      "reviewCount": 65
+    },
+    {
+      "id": 22,
+      "name": "Men's Graphic Tee",
+      "price": "$19.99",
+      "description": "Cool graphic tee for a trendy look.",
+      "details": [
+        "Material: 100% Cotton",
+        "Regular fit",
+        "Available in multiple designs"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Tumble dry low"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/19/9f/f0/199ff03b1151dbabb1bf429957315eae.jpg",
+        "https://i.pinimg.com/736x/8d/27/2e/8d272ec44fa5683ac9219d0a90f34d25.jpg",
+        "https://i.pinimg.com/736x/ea/67/5e/ea675eae5fb72712caca9c1875a98b2d.jpg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Cotton"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.0,
+      "reviewCount": 88
+    },
+    {
+      "id": 23,
+      "name": "Diamond Stud Earrings",
+      "price": "$75.00",
+      "description": "Classic diamond stud earrings for everyday elegance.",
+      "details": [
+        "Material: 14K Gold, Diamonds",
+        "Hypoallergenic",
+        "Secure back closure"
+      ],
+      "care": [
+        "Store in a jewelry box",
+        "Avoid contact with harsh chemicals"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/90/18/f2/9018f2772e0fa2dd2925fd77bb9f4189.jpg",
+        "https://i.pinimg.com/736x/85/96/16/85961644db3d24fbac4319a94493511f.jpg",
+        "https://i.pinimg.com/736x/1d/e9/4e/1de94e7ef62d883d52757d1992320aa0.jpg"
+      ],
+      "sizes": ["One Size"],
+      "materials": ["Gold", "Diamonds"],
+      "category": "Jewelry",
+      "isNew": false,
+      "rating": 4.4,
+      "reviewCount": 45
+    },
+    {
+      "id": 24,
+      "name": "Womens Summer Maxi Dress",
+      "price": "$49.99",
+      "description": "Light and breezy maxi dress for summer outings.",
+      "details": [
+        "Material: 100% Rayon",
+        "Perfect for warm weather",
+        "Available in various patterns"
+      ],
+      "care": [
+        "Hand wash only",
+        "Do not bleach"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/38/d1/2e/38d12ee1ea48427c83971ea3685d4f05.jpg",
+        "https://i.pinimg.com/736x/ca/37/bc/ca37bc826c19736abd03a071145de0a5.jpg",
+        "https://i.pinimg.com/736x/25/2f/9d/252f9dac19c22dd158249c29a3c14af9.jpg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Rayon"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.1,
+      "reviewCount": 60
+    },
+    {
+      "id": 25,
+      "name": "Mens Wool Blend Peacoat",
+      "price": "$120.00",
+      "description": "Warm wool blend peacoat for winter.",
+      "details": [
+        "Material: Wool Blend",
+        "Double-breasted design",
+        "Available in classic colors"
+      ],
+      "care": [
+        "Dry clean only",
+        "Do not machine wash"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/b8/f7/46/b8f746717f1a68e158056e8f05d828ac.jpg",
+        "https://i.pinimg.com/736x/c6/2f/1e/c62f1e5149c658762b35f1958acd56ec.jpg",
+        "https://i.pinimg.com/736x/f3/e5/2b/f3e52ba7b2dea6218b645c38ed5297d4.jpg"
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "materials": ["Wool", "Polyester"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.2,
+      "reviewCount": 40
+    },
+    {
+      "id": 26,
+      "name": "Colorful Beaded Necklace",
+      "price": "$25.00",
+      "description": "Handmade colorful beaded necklace for a unique look.",
+      "details": [
+        "Material: Mixed beads",
+        "Lightweight and vibrant",
+        "Adjustable length"
+      ],
+      "care": [
+        "Avoid water and moisture",
+        "Store in a jewelry pouch"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/ab/9a/0a/ab9a0a56a8439c2bc079bd1fb768a1a6.jpg",
+        "https://i.pinimg.com/736x/d7/3c/e0/d73ce0fb755f9e370e5868358729850d.jpg",
+        "https://i.pinimg.com/736x/d9/bc/ee/d9bcee493535c6296a9f300d08d59b92.jpg"
+      ],
+      "sizes": ["One Size"],
+      "materials": ["Beads"],
+      "category": "Jewelry",
+      "isNew": false,
+      "rating": 4.5,
+      "reviewCount": 38
+    },
+    {
+      "id": 27,
+      "name": "Men's Sweatpants",
+      "price": "$34.99",
+      "description": "Comfortable sweatpants for casual wear.",
+      "details": [
+        "Material: 50% Cotton, 50% Polyester",
+        "Elastic waistband",
+        "Great for lounging or exercising"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Tumble dry low"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/83/0a/c5/830ac5b86822cc6fd7e8773d29c556ac.jpg",
+        "https://i.pinimg.com/736x/b9/56/0e/b9560eec8516f324f1c4fc09473628e1.jpg",
+        "https://i.pinimg.com/736x/27/c6/5c/27c65c0ecf403ed96f319b82f6beb02e.jpg"
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "materials": ["Cotton", "Polyester"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.1,
+      "reviewCount": 65
+    },
+    {
+      "id": 28,
+      "name": "Womens Bohemian Maxi Skirt",
+      "price": "$39.99",
+      "description": "Flowy bohemian maxi skirt for a chic look.",
+      "details": [
+        "Material: 100% Viscose",
+        "Lightweight and breathable",
+        "Versatile for casual or formal wear"
+      ],
+      "care": [
+        "Hand wash cold",
+        "Do not bleach"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/f9/0b/17/f90b17ac11330c0375ca329d60e0c787.jpg",
+        "https://img.fantaskycdn.com/2afd53f996c077d655cd3d6245b2e82d_900x.jpeg",
+        "https://i.pinimg.com/736x/27/80/92/2780925cb3f84ea8d84e2b98dfa31235.jpg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Viscose"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.0,
+      "reviewCount": 50
+    },
+    {
+      "id": 29,
+      "name": "Men's Casual Oxford Shoes",
+      "price": "$55.00",
+      "description": "Stylish oxford shoes for semi-formal occasions.",
+      "details": [
+        "Material: Genuine Leather",
+        "Cushioned insole for comfort",
+        "Classic lace-up design"
+      ],
+      "care": [
+        "Wipe with a damp cloth",
+        "Store in a cool, dry place"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/e1/8e/e5/e18ee57906024aa87288104f06f1df92.jpg",
+        "https://i.pinimg.com/736x/f5/5a/02/f55a028bcff06166019cd9dd921a254b.jpg",
+        "https://i.pinimg.com/736x/b2/71/3d/b2713db319ead2a236f369a5f3d315f1.jpg"
+      ],
+      "sizes": ["8", "9", "10", "11"],
+      "materials": ["Leather"],
+      "category": "Footwear",
+      "isNew": true,
+      "rating": 4.6,
+      "reviewCount": 20
+    },
+    {
+      "id": 30,
+      "name": "Women's Cashmere Sweater",
+      "price": "$89.99",
+      "description": "Luxurious cashmere sweater for cold weather.",
+      "details": [
+        "Material: 100% Cashmere",
+        "Soft and warm",
+        "Available in neutral colors"
+      ],
+      "care": [
+        "Hand wash cold",
+        "Lay flat to dry"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/5f/cc/a3/5fcca3fdb4fc6d538c8545c554c98792.jpg",
+        "https://i.pinimg.com/736x/f5/13/11/f513113d4bc82e54f216fafd79d06bc3.jpg",
+        "https://i.pinimg.com/736x/af/8e/f4/af8ef4549d442f8a4f835af70cb01bf7.jpg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Cashmere"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.7,
+      "reviewCount": 25
+    },
+    {
+      "id": 31,
+      "name": "Men's Leather Belt",
+      "price": "$45.00",
+      "description": "Genuine leather belt with classic buckle.",
+      "details": [
+        "Material: 100% Leather",
+        "Adjustable sizing",
+        "Durable construction"
+      ],
+      "care": [
+        "Wipe clean with damp cloth",
+        "Condition occasionally"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/a5/eb/c6/a5ebc69ece0fa9650a3883b50a5e5d9f.jpg",
+        "https://i.pinimg.com/736x/bf/be/4b/bfbe4b30dc043947eda0f0ce52841db0.jpg",
+        "https://i.pinimg.com/736x/08/1a/8d/081a8d03aa1a53bac1291a92e51d6b5f.jpg"
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "materials": ["Leather"],
+      "category": "Accessories",
+      "isNew": false,
+      "rating": 4.2,
+      "reviewCount": 55
+    },
+    {
+      "id": 32,
+      "name": "Pearl Drop Earrings",
+      "price": "$65.00",
+      "description": "Elegant pearl drop earrings for formal occasions.",
+      "details": [
+        "Material: Freshwater Pearls",
+        "Gold-plated hooks",
+        "Timeless design"
+      ],
+      "care": [
+        "Store in jewelry box",
+        "Avoid contact with perfumes"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/ca/a6/23/caa623ec0999c91f6fe782c4184d7a15.jpg",
+        "https://i.pinimg.com/736x/e1/a6/09/e1a60942a0e73723140ba68ac926c29b.jpg",
+        "https://i.pinimg.com/736x/08/1a/8d/081a8d03aa1a53bac1291a92e51d6b5f.jpg"
+      ],
+      "sizes": ["One Size"],
+      "materials": ["Pearls", "Gold"],
+      "category": "Jewelry",
+      "isNew": false,
+      "rating": 4.5,
+      "reviewCount": 60
+    },
+    {
+      "id": 33,
+      "name": "Women's Wool Coat",
+      "price": "$149.99",
+      "description": "Warm wool coat for winter with stylish design.",
+      "details": [
+        "Material: 70% Wool, 30% Polyester",
+        "Double-breasted front",
+        "Includes belt"
+      ],
+      "care": [
+        "Dry clean only",
+        "Store properly in offseason"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/46/b6/d1/46b6d19d486ee5f173e07b8c1a50eb4f.jpg",
+        "https://i.pinimg.com/736x/4b/83/18/4b8318e677b8c5568bc64f77e92cb1b7.jpg",
+        "https://i.pinimg.com/736x/58/fb/57/58fb573bbe1cfdbf94e50e0d0ad124de.jpg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Wool", "Polyester"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.8,
+      "reviewCount": 35
+    },
+    {
+      "id": 34,
+      "name": "Men's Silk Tie",
+      "price": "$39.99",
+      "description": "Classic silk tie for formal occasions.",
+      "details": [
+        "Material: 100% Silk",
+        "Various patterns available",
+        "Standard length"
+      ],
+      "care": [
+        "Dry clean only",
+        "Store rolled"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/4a/b3/ce/4ab3ce8019ec63af5c36ee0de35f648f.jpg",
+        "https://i.pinimg.com/736x/31/89/2a/31892adad9a8e9ab237642fc9e303f9a.jpg",
+        "https://i.pinimg.com/736x/21/ab/7c/21ab7c1993b86527b9e0c6cb57467757.jpg"
+      ],
+      "sizes": ["One Size"],
+      "materials": ["Silk"],
+      "category": "Accessories",
+      "isNew": false,
+      "rating": 4.1,
+      "reviewCount": 20
+    },
+    {
+      "id": 35,
+      "name": "Stackable Silver Rings",
+      "price": "$35.00",
+      "description": "Set of three stackable silver rings.",
+      "details": [
+        "Material: Sterling Silver",
+        "Adjustable sizing",
+        "Minimalist design"
+      ],
+      "care": [
+        "Polish with silver cloth",
+        "Store in anti-tarnish bag"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/b5/16/c5/b516c59c1088b1368ed0acd3670a2a7e.jpg",
+        "https://img-va.myshopline.com/image/store/1717485196487/imageName1739427861529-1944x_990x.webp?w=1944&h=1944&q=80",
+        "https://i.pinimg.com/736x/a3/3a/f9/a33af9c4c790ccf3546c75ceeb71a471.jpg"
+      ],
+      "sizes": ["One Size"],
+      "materials": ["Sterling Silver"],
+      "category": "Jewelry",
+      "isNew": false,
+      "rating": 4.3,
+      "reviewCount": 30
+    },
+    {
+      "id": 36,
+      "name": "Women's Linen Blouse",
+      "price": "$49.99",
+      "description": "Breathable linen blouse for summer.",
+      "details": [
+        "Material: 100% Linen",
+        "Relaxed fit",
+        "Available in multiple colors"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Hang dry"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/7e/ff/fd/7efffde3cbdb1fe2e86037af27a40e0c.jpg",
+        "https://i.pinimg.com/736x/69/24/84/692484dfb203f770e43c5e38f0cc2f3c.jpg",
+        "https://img.fantaskycdn.com/f94ac2395c63732096096d828fcd81e9_750x.jpeg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Linen"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.5,
+      "reviewCount": 40
+    },
+    {
+      "id": 37,
+      "name": "Men's Denim Jeans",
+      "price": "$59.99",
+      "description": "Classic straight fit denim jeans.",
+      "details": [
+        "Material: 98% Cotton, 2% Elastane",
+        "Multiple washes available",
+        "Five-pocket design"
+      ],
+      "care": [
+        "Machine wash cold",
+        "Turn inside out",
+        "Hang dry"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/58/3c/12/583c12cddb3518aa467ce9ab872c52a8.jpg",
+        "https://i.pinimg.com/736x/45/ef/da/45efda442842f83192e01aced3fd9db7.jpg",
+        "https://i.pinimg.com/736x/4d/dc/bc/4ddcbcf654b94f19e68756bc584feded.jpg"
+      ],
+      "sizes": ["28", "30", "32", "34", "36"],
+      "materials": ["Cotton", "Elastane"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.2,
+      "reviewCount": 28
+    },
+    {
+      "id": 38,
+      "name": "Gemstone Pendant Necklace",
+      "price": "$85.00",
+      "description": "Handcrafted gemstone pendant on delicate chain.",
+      "details": [
+        "Material: Genuine Gemstone",
+        "18\" chain length",
+        "Adjustable clasp"
+      ],
+      "care": [
+        "Avoid water exposure",
+        "Store separately"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/40/3a/84/403a843679c4cc67622d831a10cfa3a2.jpg",
+        "https://i.pinimg.com/736x/4a/25/b1/4a25b161d9f6de656118309aaa8206ff.jpg",
+        "https://i.pinimg.com/736x/d5/50/9b/d5509bcf9223f4d0417a5e693a873422.jpg"
+      ],
+      "sizes": ["One Size"],
+      "materials": ["Gemstone", "Silver"],
+      "category": "Jewelry",
+      "isNew": true,
+      "rating": 4.9,
+      "reviewCount": 15
+    },
+    {
+      "id": 39,
+      "name": "Women's Silk Camisole",
+      "price": "$39.99",
+      "description": "Luxurious silk camisole for layering or sleepwear.",
+      "details": [
+        "Material: 100% Silk",
+        "Adjustable straps",
+        "Available in neutral tones"
+      ],
+      "care": [
+        "Hand wash cold",
+        "Lay flat to dry"
+      ],
+      "images": [
+        "https://i.pinimg.com/736x/89/ac/7f/89ac7febd16d899f08015a942b269cdf.jpg",
+        "https://i.pinimg.com/736x/4d/42/a4/4d42a406349013f14483e408fafcdcf8.jpg",
+        "https://i.pinimg.com/736x/25/b3/90/25b39076d66a5787652773a8eb5d9563.jpg"
+      ],
+      "sizes": ["S", "M", "L"],
+      "materials": ["Silk"],
+      "category": "Clothing",
+      "isNew": false,
+      "rating": 4.8,
+      "reviewCount": 10
+    },
+    {
+      "id": 40,
+      "name": "Men's Wool Scarf",
+      "price": "$49.99",
+      "description": "Warm wool scarf for winter protection.",
+      "details": [
+        "Material: 100% Merino Wool",
+        "Extra long length",
+        "Available in classic patterns"
+      ],
+      "care": ["Hand wash cold", "Lay flat to dry"],
+      "images": [
+        "https://i.pinimg.com/736x/00/a4/60/00a4603b3f20c180b3da3b384898f11e.jpg",
+        "https://in.pinterest.com/pin/1103030133778229414/",
+        "https://i.pinimg.com/736x/8d/12/0a/8d120a2dcfdb3a75a14c38e9c3e85c4b.jpg"
+      ],
+      "sizes": ["One Size"],
+      "materials": ["Wool"],
+      "category": "Accessories",
+      "isNew": true,
+      "rating": 4.4,
+      "reviewCount": 18
+    },
+    {
+      "id": 41,
+      "name": "Bangle Bracelet Set",
+      "price": "$55.00",
+      "description": "Set of three mixed metal bangle bracelets.",
+      "details": [
+        "Material: Gold, Silver, and Rose Gold",
+        "Stackable design",
+        "Lightweight and comfortable"
+      ],
+      "care": ["Polish with soft cloth", "Store separately"],
+      "images": [
+        "https://i.pinimg.com/736x/aa/9b/36/aa9b36cdb5ced04e6a8935b5799fa681.jpg",
+        "https://i.pinimg.com/736x/c5/b3/ab/c5b3ab1497cd32404c6ec67560c86e55.jpg",
+        "https://i.pinimg.com/736x/17/f8/6f/17f86f3443cf3fab71dfc8577ef42814.jpg"
+      ],
+      "sizes": ["One Size"],
+      "materials": ["Gold", "Silver", "Rose Gold"],
+      "category": "Jewelry",
+      "isNew": true,
+      "rating": 4.3,
+      "reviewCount": 20
+    }
+  ]
+}
