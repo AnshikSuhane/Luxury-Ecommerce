@@ -1,12 +1,11 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable react/no-unescaped-entities */
 "use client";
-
 import { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowLeft, Minus, Plus, ShoppingBag, Trash2 } from "lucide-react";
 import { toast } from "sonner";
-
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 
@@ -30,13 +29,25 @@ export default function CartPage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    const loadCartItems = () => {
+      const savedCart = typeof window !== "undefined" ? localStorage.getItem("cart") : null;
+      if (savedCart) {
+        try {
+          const parsedCart: CartItem[] = JSON.parse(savedCart);
+          setCartItems(parsedCart);
+        } catch (error) {
+          console.error("Failed to parse cart data:", error);
+          toast.error("Failed to load cart items");
+        }
+      }
+    };
+
     const fetchProducts = async () => {
       try {
         const res = await fetch(
           "https://ecommerce-c6014-default-rtdb.firebaseio.com/Products/products.json"
         );
         const data = await res.json();
-
         const products: FirebaseProduct[] = Object.entries(data).map(
           ([key, value]: any) => ({
             id: key,
@@ -54,22 +65,28 @@ export default function CartPage() {
 
         setCartItems(initialCartItems);
       } catch (error) {
-        console.error("Failed to fetch cart data:", error);
-        toast.error("Failed to load cart items");
+        console.error("Failed to fetch product data:", error);
+        toast.error("Failed to load products");
       } finally {
+        loadCartItems(); // Ensure we load cart items after fetching products.
         setLoading(false);
       }
     };
 
+    loadCartItems();
     fetchProducts();
   }, []);
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      localStorage.setItem("cart", JSON.stringify(cartItems));
+    }
+  }, [cartItems]);
 
   const updateQuantity = (id: string, newQuantity: number) => {
     if (newQuantity < 1) return;
     setCartItems((items) =>
-      items.map((item) =>
-        item.id === id ? { ...item, quantity: newQuantity } : item
-      )
+      items.map((item) => (item.id === id ? { ...item, quantity: newQuantity } : item))
     );
   };
 
@@ -84,8 +101,6 @@ export default function CartPage() {
       description: "Your items will be shipped soon.",
       duration: 5000,
     });
-    
-    
     setCartItems([]);
   };
 
@@ -205,7 +220,7 @@ export default function CartPage() {
               </div>
 
               <div className="mt-6">
-                <Button 
+                <Button
                   className="w-full"
                   onClick={handleCheckout}
                 >
@@ -228,7 +243,7 @@ export default function CartPage() {
             <ShoppingBag className="mx-auto h-12 w-12 text-gray-400" />
             <h3 className="mt-2 text-lg font-medium text-gray-900">Your cart is empty</h3>
             <p className="mt-1 text-sm text-gray-500">
-              Looks like you haven&#39;t added any products to your cart yet.
+              Looks like you haven't added any products to your cart yet.
             </p>
             <div className="mt-6">
               <Link href="/products">
@@ -236,7 +251,7 @@ export default function CartPage() {
               </Link>
             </div>
           </div>
-        )}
+        )} 
       </div>
     </div>
   );

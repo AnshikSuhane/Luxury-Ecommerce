@@ -5,6 +5,7 @@ import React from "react";
 import { ClerkProvider } from "@clerk/nextjs";
 import { Navbar } from "@/components/common/navbar/page";
 import Footer from "@/components/common/footer/page";
+import { WishlistProvider } from "@/components/context/wishList";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -28,6 +29,7 @@ export default function RootLayout({
 }>) {
   return (
     <ClerkProvider>
+      <WishlistProvider>
       <html lang="en">
         <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
           <Navbar />
@@ -35,6 +37,7 @@ export default function RootLayout({
           <Footer />
         </body>
       </html>
+      </WishlistProvider>
     </ClerkProvider>
   );
 }

@@ -17,7 +17,7 @@ import {
 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import Category from "./category/page";
+
 import Link from "next/link";
 
 function Home() {
@@ -156,10 +156,11 @@ function Home() {
                     <div className="absolute inset-0 p-6 flex flex-col justify-end text-white">
                       <h3 className="text-2xl font-bold mb-2">Accessories</h3>
                       <p className="mb-4 text-white/90">Complete your look with our latest accessories.</p>
-                      <Link href={""}></Link>
+                      <Link href={"/products"}>
                       <Button variant="outline" className="w-fit border-white text-white hover:bg-white hover:text-black">
                         Explore <ArrowRight className="ml-2 h-4 w-4" />
                       </Button>
+                      </Link>
                     </div>
                   </div>
                   
@@ -175,7 +176,9 @@ function Home() {
                       <div className="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition-colors" />
                     </div>
                     <div className="absolute inset-0 p-6 flex flex-col justify-end text-white">
+                      <Link href={"/new-arrivals"}>
                       <h3 className="text-2xl font-bold mb-2">New Arrivals</h3>
+                      </Link>
                       <p className="mb-4 text-white/90">Be the first to shop our latest arrivals.</p>
                       <Button variant="outline" className="w-fit border-white text-white hover:bg-white hover:text-black">
                         Shop New <ArrowRight className="ml-2 h-4 w-4" />
@@ -235,6 +238,7 @@ function Home() {
                       </Badge>
                       <h3 className="text-2xl font-semibold text-white mb-2">{category.title}</h3>
                       <p className="text-white/80 mb-6">{category.description}</p>
+                      <Link href={"/products"}></Link>
                       <Button variant="outline" className="border-white text-white w-fit hover:bg-white hover:text-black group">
                         Explore Collection <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                       </Button>
@@ -285,7 +289,7 @@ function Home() {
                     <p className="text-white/80">20% Off</p>
                   </div>
                 </div>
-                <Button size="lg" className="bg-white text-black hover:bg-white/90">
+                <Button size="lg" className="bg-white text-black hover:bg-white/90" >
                   Shop All Deals <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </div>
